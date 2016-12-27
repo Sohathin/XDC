@@ -1,0 +1,39 @@
+*{margin:0;padding:0;line-height:1;font-family:Microsoft Yahei;font-size:14px}
+ul, ol{list-style:none;}
+a{text-decoration:none;color:inherit;}
+.w1280{margin:0 auto;width:1280px;}
+
+/*头部*/
+.top{height:76px;border-top:4px solid rgb(255,87,26);border-bottom:1px solid rgb(220,220,220)}
+.logo{width:82px;height:36px;margin:20px 0;background-image: url(../images/logo.png);float:left;margin-left:50px}
+.addNav{width:88px;height:30px;
+	border:1px solid rgb(237,237,237);
+	float:left;margin:20px 6px;
+	text-align:center;line-height:30px;
+	margin-left: 16px;}
+.ulNav li{float:left;margin:30px 0 0 40px;cursor: pointer;}
+.ulNav1{color:red}
+.search{width:220px;height:30px;margin:20px 0 0 40px}
+.logreg{margin:20px 0 0 20px}
+
+
+
+/*main*/
+.main{margin-top:20px}
+.mainleft{width:240px;float:left}
+.mainright{width:1020px;float:left;margin-left:20px}
+
+/*左*/
+.countCar{width:240px;height:40px;border:1px solid rgb(221,221,221);background: rgb(245,245,245);}
+.countCar span{text-align:left; line-height: 40px;margin-left:16px;color: rgb(255,87,26);}
+.carNav{width:240px;height:1140px;margin-top:20px;border: 1px solid rgb(237,237,237);background: orange;}
+.carNavInner{width:208px;height:1100px;margin-top:12px;margin-left:12px;background:white}
+
+
+/*右*/
+.topNav{width:1020px;height:84px;background:pink}
+.mainNav{width:1020px;margin-top:20px;}
+.carList{width:240px;height:320px;float:left;margin:0 20px 20px 0;background:purple}
+.carList1{width:240px;height:320px;float:left;margin-bottom:20px;background:purple}
+.carList img{width:240px;height:160px}
+.carList1 img{width:240px;height:160px}
